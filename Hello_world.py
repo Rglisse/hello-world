@@ -3,6 +3,7 @@
 # This file produce some printing
 
 print("Hello world")
+print("test")
 print("The end")
 
 
